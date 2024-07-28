@@ -1,4 +1,5 @@
-![katoolin](https://cloud.githubusercontent.com/assets/8742190/9415562/83397aae-4840-11e5-8f72-28dfffcc70a9.png)
+![Katoolin V3.0](https://github.com/user-attachments/assets/0173adf2-830b-4331-af71-47d033876b2f)
+
 # Katoolin
 New version of Katoolin v3.0 comes with new tools.
 
@@ -24,8 +25,6 @@ New version of Katoolin v3.0 comes with new tools.
 - hashcat-utils
 - seclists
 
-
-
 # Features
 - Add Kali linux repositories & Remove
 - Install Kali linux tools.
@@ -35,6 +34,8 @@ New version of Katoolin v3.0 comes with new tools.
 - An operating system 
 
 # Tested Operation Systems
+- xUbuntu
+- Ubuntu 
 
 # Installation
 - sudo su
@@ -42,6 +43,8 @@ New version of Katoolin v3.0 comes with new tools.
 - chmod +x /usr/bin/katoolin
 - python3 katoolin.py 
 
+# Usage
+- python3 katooling.py
 
 # Contact
 
