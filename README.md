@@ -46,7 +46,6 @@ git clone https://github.com/xpagan1ni/katoolinv3.git
 chmod +x /usr/bin/katoolin
 
 python3 katoolin.py
-
 ```
 
 # Usage
