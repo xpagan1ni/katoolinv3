@@ -40,9 +40,13 @@ New version of Katoolin v3.0 comes with new tools.
 # Installation
 ```
 sudo su
+
 git clone https://github.com/xpagan1ni/katoolinv3.git
+
 chmod +x /usr/bin/katoolin
+
 python3 katoolin.py
+
 ```
 
 # Usage
