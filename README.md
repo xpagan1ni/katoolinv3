@@ -16,7 +16,6 @@ New version of Katoolin v3.0 comes with new tools.
 - httpx
 - apache2
 - hydra
-- beefxss
 - bettercap
 - ettercap-graphical
 - macchanger
@@ -24,6 +23,7 @@ New version of Katoolin v3.0 comes with new tools.
 - hashcat
 - hashcat-utils
 - seclists
+- beef-xss
 
 # Features
 - Add Kali linux repositories & Remove
