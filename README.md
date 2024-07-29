@@ -38,10 +38,12 @@ New version of Katoolin v3.0 comes with new tools.
 - Ubuntu 
 
 # Installation
-``` sudo su  ```
-``` git clone https://github.com/LionSec/katoolin.git ```
-``` chmod +x /usr/bin/katoolin ```
-``` python3 katoolin.py ```
+```
+sudo su
+git clone https://github.com/xpagan1ni/katoolinv3.git
+chmod +x /usr/bin/katoolin
+python3 katoolin.py
+```
 
 # Usage
 - python3 katoolin.py
