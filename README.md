@@ -35,7 +35,8 @@ New version of Katoolin v3.0 comes with new tools.
 
 # Tested Operation Systems
 - xUbuntu
-- Ubuntu 
+- Ubuntu
+- Parrot Security OS
 
 # Installation
 ```
