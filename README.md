@@ -17,7 +17,6 @@ New version of Katoolin v3.0 comes with new tools.
 - apache2
 - hydra
 - beefxss
-- 
 - bettercap
 - ettercap-graphical
 - macchanger
