@@ -4,6 +4,7 @@
 New version of Katoolin v3.0 comes with new tools.
 
 # Added Tools
+- bettercap
 - netdiscover
 - netmask
 - afl++
@@ -16,7 +17,6 @@ New version of Katoolin v3.0 comes with new tools.
 - httpx
 - apache2
 - hydra
-- bettercap
 - ettercap-graphical
 - macchanger
 - netsniff-ng
