@@ -46,7 +46,7 @@ python3 katoolin.py
 ```
 
 # Usage
-- python3 katoolin.py
+``` python3 katoolin.py ```
 
 # Contact
 
