@@ -44,7 +44,7 @@ New version of Katoolin v3.0 comes with new tools.
 - python3 katoolin.py 
 
 # Usage
-- python3 katooling.py
+- python3 katoolin.py
 
 # Contact
 
